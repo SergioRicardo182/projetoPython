@@ -1,0 +1,11 @@
+nome,diretor,avaliacao,data_lancamento,duracao_h,duracao_m,streaming
+Vingadores,Joe e Anthony Russo,6.9,25/04/2019,3,1,True
+Interestelar,Christopher Nolan,2.3,06/11/2014,2,49,True
+O Senhor dos Anéis: A Sociedade do Anel,Peter Jackson,9.0,19/12/2001,2,58,True
+Cidade de Deus,Fernando Meirelles,4.6,30/08/2002,2,10,True
+Parasita,Bong Joon-ho,5.9,07/11/2019,2,12,True
+Matrix,Lana e Lilly Wachowski,10.4,31/03/1999,2,16,False
+O Rei Leão,Roger Allers e Rob Minkoff,10.9,08/07/1994,1,28,True
+Pantera Negra,Ryan Coogler,5.1,15/02/2018,2,14,True
+Gladiador,Ridley Scott,7.1,05/05/2000,2,35,False
+Titanic,James Cameron,1.1,19/12/1997,3,14,True
